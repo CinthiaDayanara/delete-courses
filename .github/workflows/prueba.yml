@@ -28,4 +28,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: dayanara1898/list-service:latest
+          tags: dayanara1898/delete-course:latest
